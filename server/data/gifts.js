@@ -2,7 +2,7 @@ const giftData = [
   {
       "id": 1,
       "name": "Disco Ball Candle",
-      "pricePoint": "$",
+      "pricePoint": "$1",
       "audience": "Candle Lovers",
       "image":"https://tinyurl.com/39xc9h6y",
       "description":"A party in a candle",
@@ -11,8 +11,8 @@ const giftData = [
   },
   {
       "id": 2,
-      "name": "Lego Flower Bouquet Kit",
-      "pricePoint": "$",
+      "name": "Lego Flower Kit",
+      "pricePoint": "$2",
       "audience": "Green Thumbs",
       "image":"https://m.media-amazon.com/images/I/81lnPKhwFfL._AC_SX679_.jpg",
       "description":"A gift and fun activity to do together",
@@ -22,7 +22,7 @@ const giftData = [
   {
       "id": 3,
       "name": "Nintendo Switch Lite",
-      "pricePoint": "$$",
+      "pricePoint": "$3",
       "audience": "Gamers",
       "image":"https://tinyurl.com/2cdfe59x",
       "description":"A gift for gamers on-the-go",
@@ -32,7 +32,7 @@ const giftData = [
   {
       "id": 4,
       "name": "Nike Panda Dunks",
-      "pricePoint": "$$",
+      "pricePoint": "$4",
       "audience": "Sneakerheads",
       "image":"https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-PS/Images/Nike-Dunk-Low-Retro-White-Black-PS/Lv2/img36.jpg?fm=avif&w=576",
       "description":"A fan-favorite black and white color-blocking sneaker",
@@ -42,7 +42,7 @@ const giftData = [
   {
       "id": 5,
       "name": "Razer Kitty Headset",
-      "pricePoint": "$$",
+      "pricePoint": "$5",
       "audience": "Gamers",
       "image":"https://m.media-amazon.com/images/I/814WZ5eAFoL._AC_SX679_.jpg",
       "description":"Create the purrfect gaming look with your own killer kitty style",
@@ -51,8 +51,8 @@ const giftData = [
   },
   {
       "id": 6,
-      "name": "Nellsi Sunset Lamp Projection",
-      "pricePoint": "$",
+      "name": "Nellsi Sunset Lamp ",
+      "pricePoint": "$6",
       "audience": "Sungazers",
       "image":"https://tinyurl.com/y76zsc37",
       "description":"Sunshine any time, any place",
@@ -61,8 +61,8 @@ const giftData = [
   },
   {
       "id": 7,
-      "name": "Frigidaire Retro Mini Fridge",
-      "pricePoint": "$",
+      "name": "Retro Mini Fridge",
+      "pricePoint": "$7",
       "audience": "Foodies",
       "image":"https://tinyurl.com/dzyhec8a",
       "description":"A retro way of keeping things cool",
@@ -71,8 +71,8 @@ const giftData = [
   },
   {
       "id": 8,
-      "name": "Crosley Discover Turntable",
-      "pricePoint": "$",
+      "name": "Crosley Turntable",
+      "pricePoint": "$8",
       "audience": "Music Lovers",
       "image":"https://tinyurl.com/4vycxmkm",
       "description":"A portable turntable that is ready to play right out of the box",
@@ -81,8 +81,8 @@ const giftData = [
   },
   {
       "id": 9,
-      "name": "Brandon Blackwood Parker Bag",
-      "pricePoint": "$$",
+      "name": "Brandon Bag",
+      "pricePoint": "$9",
       "audience": "Fashionistas",
       "image":"https://tinyurl.com/2n6pszw7",
       "description":"A perfect pop of color",
